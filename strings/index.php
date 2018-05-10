@@ -1,0 +1,1 @@
+<?php require "cleaner.php" ?>
